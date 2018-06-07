@@ -1,0 +1,5 @@
+2)To Establish Connection Between Two Different Jenkins Jobs with Out Master-Slave Connection this  would be the possible scenario:
+
+
+1)First Set-Up Another Cloud Instance or an Physical Computer & add it to Jenkins, and make sure for that instance only one job can run at a time, and let that job run on that node instead of the master mode of Jenkins.
+
